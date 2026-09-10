@@ -5,10 +5,10 @@ hey guys this is a fun place to get 3k games is pretty cool I'd check it out idk
 
 # Steps To Run
 
-go to opencompiler.com/HTML and paste the code there.
-run the code
-then type in the search bar whatever game u want. its pretty cool
-enjoy.
+1. go to opencompiler.com/HTML and paste the code there.
+2. run the code
+3. then type in the search bar whatever game u want. its pretty cool
+4. enjoy.
 
 # The code is HTML btw In case u forgot
 This wasn't written by me. Thank the kind folks at UGS Studios. (I think that's their name idk I js made sum bull crap up)
