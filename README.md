@@ -10,8 +10,8 @@ run the code
 then type in the search bar whatever game u want. its pretty cool
 enjoy.
 
-# The code is HTML btw Incase u forgot
-# This wasn't written by me. Thank the kind folks at UGS Studios. (I think that's their name idk I js made sum bull crap up)
+# The code is HTML btw In case u forgot
+This wasn't written by me. Thank the kind folks at UGS Studios. (I think that's their name idk I js made sum bull crap up)
 
 uhm yea bye
 
